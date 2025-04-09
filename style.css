@@ -25,7 +25,7 @@ ul{
   background-color: white;
   text-align: center;
   list-style-type: none;
-
+  color: black;
 }
 
 nav ul{
@@ -33,6 +33,7 @@ nav ul{
   margin: 10px 10px 0px 10px;
   list-style-type: none;
   padding: 5px 0px 5px 0px;
+  color: black;
 }
 nav ul li{
   display: inline;
@@ -173,6 +174,7 @@ img{
 
 .b4{
   text-decoration: none;
+  color: white;
 }
 #her{
   color: black;
