@@ -19,7 +19,7 @@ nav{
   width: 1255px;
   margin-left: auto;
   margin-right: auto;
-  
+  color: black;
 }
 ul{
   background-color: white;
@@ -55,9 +55,7 @@ h1 a:link, h1 :visited{
   text-decoration-color: black;
 }
 
-a:visited{
-  color: black;
-}
+
 nav li:last-child {
         border-right: none; 
         text-decoration: none;
