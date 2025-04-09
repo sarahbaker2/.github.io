@@ -39,6 +39,7 @@ nav ul li{
   padding: 5px 10px 5px 10px;
   border-right: 2px solid black;
   text-decoration: none;
+  color: black;
 }
 
 ul li a:link, ul li :visited{
